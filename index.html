@@ -6,7 +6,7 @@
   <title>Web開発の練習2025秋季</title>  
 <link rel="stylesheet" href="mystyle.css"><!--この行を追加-->
 <script src="myjs.js"></script><!--この行を追加-->
-
+<script src="ex6-1.js"></script>
 </head>
 
   <body>
@@ -54,6 +54,19 @@
 <input type="button" value="ここをクリック"
    onclick="alert('Hello,Hinase!');">
    -->
+   <input type="button" value="ここをクリック" 
+onclick="sayhello61();">
+   <h1>練習問題6.2</h1>
+   <input type="button" value="ここをクリック" 
+onclick="sayhello61();sayhello61();">
+
+   <h1>練習問題6.4</h1>
+   <button onclick="saygoodbye()">ボタン</button>
+   <script>
+    function saygoodbye(){
+     alert("goodbye.");
+    }
+   </script>
   </body>
 </html>
 
