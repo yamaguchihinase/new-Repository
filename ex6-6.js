@@ -5,3 +5,6 @@ function sayhello66() {
 function someone(x) {
   who66 = x;
 }
+function someone(who) {
+  alert(who + 'さん、こんにちは');
+}
