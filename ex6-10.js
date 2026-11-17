@@ -1,1 +1,1 @@
-function gazo69() { document.getElementById('who69').innerHTML = '<img src="./image/wannn2.png" alt="わん">'; }
+function gazo610() { document.getElementById('who610').innerHTML = '<img src="./image/wannn2.png" alt="わん">'; }
