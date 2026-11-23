@@ -1,3 +1,3 @@
 function imgchange1() {
 document.getElementById('logo').src = 
-'./image/bulbon.gif';
+'.image/jyousaidaigakulogo01.webp/';
